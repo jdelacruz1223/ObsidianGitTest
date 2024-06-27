@@ -12,4 +12,4 @@ Confirmed members
 | testlab12   | Adam              | Design                    | Level Designer                   |
 | MilkyWay    | Jens              | Design                    | Level Designer                   |
 | Toonlank    |                   | Design                    | Level Designer                   |
-|             | -                 | Design                    | Gameplay Designer                |
+
