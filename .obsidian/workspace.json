@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
+                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
+                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
+                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
+                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
               }
             }
           }
@@ -147,7 +147,8 @@
   },
   "active": "85b0b6db84049f5e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
-    "Excalidraw"
+    "ObsidianGitTest/create a link.md",
+    "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
+    "ObsidianGitTest/Excalidraw"
   ]
 }
