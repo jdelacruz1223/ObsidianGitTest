@@ -8,3 +8,4 @@ Confirmed members
 | Adam              | Design                    | Designer               |
 | Jens              | Design                    | Designer               |
 | Christopher Talag |                           |                        |
+|                   |                           |                        |
