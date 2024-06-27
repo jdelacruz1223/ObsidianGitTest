@@ -1,52 +1,37 @@
 {
   "main": {
-    "id": "4837db66807b8b92",
+    "id": "50a7cc7c531059ae",
     "type": "split",
     "children": [
       {
-        "id": "4988207dd7ff695e",
+        "id": "a2d79c1178bb9efe",
         "type": "tabs",
         "children": [
           {
-            "id": "3a54e869c7b4947b",
+            "id": "85b0b6db84049f5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25354128aaff3e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yo moma.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0206b943690e964e",
+    "id": "89e21ce3c889751e",
     "type": "split",
     "children": [
       {
-        "id": "8cd6143cca2a7976",
+        "id": "fe48e55a86d42b42",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6c7f14feeaff54",
+            "id": "fd08f285fe9b848c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +41,7 @@
             }
           },
           {
-            "id": "96d4ded3e0816259",
+            "id": "16ca9cdcce3eb79c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +56,7 @@
             }
           },
           {
-            "id": "d5832a3a72d3c3bc",
+            "id": "348fc40aed48812e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +70,20 @@
     "width": 300
   },
   "right": {
-    "id": "fea0d1d5d6b2f761",
+    "id": "693d1e979b5a788c",
     "type": "split",
     "children": [
       {
-        "id": "8bed7f8ba8590bd4",
+        "id": "9827077b9b91c608",
         "type": "tabs",
         "children": [
           {
-            "id": "84c3466eb5e2c7c4",
+            "id": "e93a5f19f59eeaab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yo moma.md",
+                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +95,19 @@
             }
           },
           {
-            "id": "1eebf39c189981e5",
+            "id": "8cc42994aef922ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yo moma.md",
+                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6afc19f02e1c1ff4",
+            "id": "dc2d5c235cdbc808",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +118,12 @@
             }
           },
           {
-            "id": "61b877a394d2a3f6",
+            "id": "2cf193c2c6bd7534",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yo moma.md"
+                "file": "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
               }
             }
           }
@@ -156,14 +141,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25354128aaff3e30",
+  "active": "85b0b6db84049f5e",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Yo moma.md",
-    "Welcome.md",
-    "create a link.md"
+    "Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
+    "Excalidraw"
   ]
 }
