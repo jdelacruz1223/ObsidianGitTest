@@ -11,9 +11,14 @@
             "id": "85b0b6db84049f5e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
+                "file": "ObsidianGitTest/Boogie Board.canvas",
+                "viewState": {
+                  "x": 103.5,
+                  "y": 366.5,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
+                "file": "ObsidianGitTest/Boogie Board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",
+                "file": "ObsidianGitTest/Boogie Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md"
+                "file": "ObsidianGitTest/Boogie Board.canvas"
               }
             }
           }
@@ -141,13 +146,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "85b0b6db84049f5e",
   "lastOpenFiles": [
     "ObsidianGitTest/create a link.md",
+    "ObsidianGitTest/GMTK Prep Log.md",
     "ObsidianGitTest/ReadMe.md",
+    "ObsidianGitTest/Boogie Board.canvas",
     "ObsidianGitTest/Welcome.md",
     "ObsidianGitTest/Yo moma.md",
     "ObsidianGitTest/Excalidraw/Drawing 2024-06-26 23.28.09.excalidraw.md",

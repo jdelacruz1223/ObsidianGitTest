@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0d5c94c6144ead6d","x":-93,"y":1,"width":393,"height":359,"type":"file","file":"GMTK Prep Log.md"}
+		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-93,"y":1,"width":393,"height":359}
 	],
 	"edges":[]
 }
