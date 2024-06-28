@@ -8,7 +8,7 @@ Confirmed members
 | testlab12   | Adam              | Design                    | Level Designer         |
 | ##########  | Unassigned        | ##########                | #############          |
 | MilkyWay    | Jens              | Design                    |                        |
-| Toonlank    |                   | Design                    |                        |
+| Toonlank    | Javier            | Programmer                | Programmer             |
 | erso        | Erso              | Art                       |                        |
 | Luqey       | Luke              | Art                       |                        |
 | kagurainigo | Inigo             | Art                       |                        |
