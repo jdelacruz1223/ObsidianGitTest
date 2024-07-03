@@ -8,6 +8,7 @@ Constraints:
 
 Breakdown:
 96 hours
-- 8 x 4 = 32 hours for sleep
-- 8 x 4 = 32 hours for working
-- remaining 32 hours for non work
+	8 for work
+		
+	8 for sleep
+	8 for personal
