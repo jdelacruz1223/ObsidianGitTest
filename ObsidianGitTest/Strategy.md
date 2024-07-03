@@ -15,8 +15,9 @@ Breakdown:
 
 | Type     | Time    |
 | -------- | ------- |
+| Personal |         |
 | Work     | 4 hours |
 | Break    | 1 hour  |
-| Work     |         |
-| Personal |         |
+| Work     | 4 hours |
+| Personal | 8 hours |
 | Sleep    |         |
