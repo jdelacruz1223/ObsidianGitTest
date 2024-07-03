@@ -17,4 +17,6 @@ MilkyWay
 
 Member notes:
 	Toonlank
-		Weekdays after 12:00
+		Weekdays after 12:00, preferrable 14:00
+		Notes:
+			
