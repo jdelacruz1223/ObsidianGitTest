@@ -8,4 +8,4 @@ Constraints:
 
 Breakdown:
 96 hours
-- 8 x 
+- 8 x 4 = 32 hours for 
