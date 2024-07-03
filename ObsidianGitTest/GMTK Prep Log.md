@@ -7,9 +7,9 @@ Confirmed members
 | Toonlank    | Javier            | Programmer                | Programmer             |
 | Chubby_Hero | Christopher Talag | Art                       | Technical Artist       |
 | testlab12   | Adam              | Design                    | Level Designer         |
-| ##########  | Unassigned        | ##########                | #############          |
+| erso        | Erso              | Art                       | Concept Artist         |
 | MilkyWay    | Jens              | Design                    |                        |
-| erso        | Erso              | Art                       |                        |
+| ##########  | Unassigned        | ##########                | #############          |
 | Luqey       | Luke              | Art                       |                        |
 | kagurainigo | Inigo             | Art                       |                        |
 | askarpund   |                   | Art                       |                        |
