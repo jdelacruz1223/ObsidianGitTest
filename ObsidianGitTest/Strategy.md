@@ -12,7 +12,7 @@ Breakdown:
 	8 for sleep
 	8 for personal
 
-!!! What people do outside of working is not my business. So I should require 
+!!! What people do outside of working is not my business. So I should require *at least 8 hours minimum* of work contributed. No one should   
 
 
 | Type       | Time    | Suggested Timeframes |
