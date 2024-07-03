@@ -13,3 +13,7 @@ Confirmed members
 Scheduling
 Toonlank - available weekdays after 12:00, preferrable 14:00
 - Concerns: slow pc
+MilkyWay
+
+Member notes:
+Toonl
