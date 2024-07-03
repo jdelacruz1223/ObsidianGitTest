@@ -12,7 +12,7 @@ Breakdown:
 	8 for sleep
 	8 for personal
 
-!!! What people d
+!!! What people do outside of working is not my business. So I should require 
 
 
 | Type       | Time    | Suggested Timeframes |
