@@ -16,6 +16,7 @@ Breakdown:
 Members will be allowed to work more than 8 hours as per the nature of the timeframe of the jam, but I will cap it at
 
 Caps
+	12 for work
 	8 for sleep
 	4 for personal
 	
