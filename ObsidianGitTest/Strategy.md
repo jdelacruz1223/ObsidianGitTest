@@ -23,4 +23,4 @@ My personal schedule
 | Break      | 1 hour  | 15:00 - 16:00        |
 | Work 2     | 4 hours | 16:00 - 20:00        |
 | Personal 2 | 4 hours | 20:00 - 00:00        |
-| Sleep      | 8 hours |                      |
+| Sleep      | 8 hours | 00:00- 9:00          |
