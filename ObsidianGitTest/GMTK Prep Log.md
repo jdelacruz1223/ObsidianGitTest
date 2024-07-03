@@ -9,8 +9,8 @@ Confirmed members
 | testlab12   | Adam              | Design                    | Level Designer         |
 | erso        | Erso              | Art                       | Concept Artist         |
 | MilkyWay    | Jens              | Design                    |                        |
-| ##########  | Unassigned        | ##########                | #############          |
 | Luqey       | Luke              | Art                       |                        |
+| ##########  | Unassigned        | ##########                | #############          |
 | kagurainigo | Inigo             | Art                       |                        |
 | askarpund   |                   | Art                       |                        |
 Scheduling
