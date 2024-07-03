@@ -4,4 +4,4 @@ Obstacles:
 	How will we split our time optimally to allow for both efficient working and ample rest?
 
 Constraints: 
-	
+	I do not want anyone to work more than 8 hours
