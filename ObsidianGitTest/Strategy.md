@@ -5,3 +5,7 @@ Obstacles:
 
 Constraints: 
 	I do not want anyone to work more than 8 hours
+
+Breakdown:
+96 hours
+- 8 x 
