@@ -12,7 +12,7 @@ Breakdown:
 	8 for sleep
 	8 for personal
 
-!!! What people do outside of working is not my business. So I should require *at least 8 hours minimum* of work contributed. No one should work more than 4 hours straight and I would high advise against working without taking at least 30-60 min of break between the 4 hour work bl  
+!!! What people do outside of working is not my business. So I would require *at least 8 hours minimum* of work contributed. No one should work more than 4 hours straight and I would highly advise against working without taking at least 30-60 min of break between the 4 hour work blocks.  
 
 
 | Type       | Time    | Suggested Timeframes |
