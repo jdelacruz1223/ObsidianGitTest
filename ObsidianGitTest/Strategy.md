@@ -9,6 +9,10 @@ Constraints:
 Breakdown:
 96 hours
 	8 for work
-		
 	8 for sleep
 	8 for personal
+
+
+| Hour | 1   | 2   | 3   |     |
+| ---- | --- | --- | --- | --- |
+|      |     |     |     |     |
