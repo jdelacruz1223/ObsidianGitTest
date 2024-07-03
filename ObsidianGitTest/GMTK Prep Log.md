@@ -16,4 +16,5 @@ Toonlank - available weekdays after 12:00, preferrable 14:00
 MilkyWay
 
 Member notes:
-Toonl
+	Toonlank
+		Weekdays after 12:00
