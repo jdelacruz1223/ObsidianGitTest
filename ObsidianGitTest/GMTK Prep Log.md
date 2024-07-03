@@ -5,10 +5,10 @@ Confirmed members
 | frooh       | Justin            | Production<br>Programming | Producer<br>Programmer |
 | Shiva       | Dichill           | Programming               | Lead Programmer        |
 | Toonlank    | Javier            | Programmer                | Programmer             |
-| Chubby_Hero | Christopher Talag | Art                       | Technical Artist       |
-| testlab12   | Adam              | Design                    | Level Designer         |
-| erso        | Erso              | Art                       | Concept Artist         |
 | MilkyWay    | Jens              | Design                    |                        |
+| testlab12   | Adam              | Design                    | Level Designer         |
+| Chubby_Hero | Christopher Talag | Art                       | Technical Artist       |
+| erso        | Erso              | Art                       | Concept Artist         |
 | Luqey       | Luke              | Art                       |                        |
 | ##########  | Unassigned        | ##########                | #############          |
 | kagurainigo | Inigo             | Art                       |                        |
