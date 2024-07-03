@@ -19,8 +19,8 @@ My personal schedule
 | Type       | Time    | Suggested Timeframes |
 | ---------- | ------- | -------------------- |
 | Personal 1 | 2 hours | 9:00 - 11:00         |
-| Work 1     | 4 hours | 11:00 -              |
-| Break      | 1 hour  |                      |
-| Work 2     | 4 hours |                      |
-| Personal 2 | 4 hours |                      |
+| Work 1     | 4 hours | 11:00 - 15:00        |
+| Break      | 1 hour  | 15:00 - 16:00        |
+| Work 2     | 4 hours | 16:00 - 20:00        |
+| Personal 2 | 4 hours | 20:00                |
 | Sleep      | 8 hours |                      |
