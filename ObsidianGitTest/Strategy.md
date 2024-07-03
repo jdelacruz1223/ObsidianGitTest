@@ -20,4 +20,4 @@ Breakdown:
 | Break    | 1 hour  |                      |
 | Work     | 4 hours |                      |
 | Personal | 8 hours |                      |
-| Sleep    |         |                      |
+| Sleep    | 8 hours |                      |
