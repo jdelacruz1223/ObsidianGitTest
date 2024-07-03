@@ -13,10 +13,10 @@ Breakdown:
 	8 for personal
 
 
-|          |     |     |     |     |     |
-| -------- | --- | --- | --- | --- | --- |
-| Work     |     |     |     |     |     |
-| Break    |     |     |     |     |     |
-| Work     |     |     |     |     |     |
-| Personal |     |     |     |     |     |
-| Sleep    |     |     |     |     |     |
+| Type     | Time    |
+| -------- | ------- |
+| Work     | 4 hours |
+| Break    | 1 hour  |
+| Work     |         |
+| Personal |         |
+| Sleep    |         |
