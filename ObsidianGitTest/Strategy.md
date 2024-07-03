@@ -12,6 +12,8 @@ Breakdown:
 	8 for sleep
 	8 for personal
 
+!!! What people d
+
 
 | Type       | Time    | Suggested Timeframes |
 | ---------- | ------- | -------------------- |
