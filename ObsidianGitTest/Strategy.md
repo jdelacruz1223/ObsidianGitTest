@@ -15,7 +15,7 @@ Breakdown:
 
 | Type       | Time    | Suggested Timeframes |
 | ---------- | ------- | -------------------- |
-| Personal 1 | 4       |                      |
+|            |         |                      |
 | Work 1     | 4 hours | 8:00 - 12:00         |
 | Break      | 1 hour  | 12:00 - 13:00        |
 | Work 2     | 4 hours | 14:00 - 18:00        |
