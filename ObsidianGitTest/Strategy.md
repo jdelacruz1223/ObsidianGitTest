@@ -14,7 +14,7 @@ Breakdown:
 
 !!! What people do outside of working is not my business. So I would require *at least 8 hours minimum* of work contributed. No one should work more than 4 hours straight and I would highly advise against working without taking at least 30-60 min of break between the 4 hour work blocks. If need be, I will cut off any overworking when I notice a significant decrease to productivity.  
 
-My 
+My personal 
 
 | Type       | Time    | Suggested Timeframes |
 | ---------- | ------- | -------------------- |
