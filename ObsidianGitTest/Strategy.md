@@ -13,11 +13,11 @@ Breakdown:
 	8 for personal
 
 
-| Type     | Time    | Suggested Timeframes |
-| -------- | ------- | -------------------- |
-|          |         |                      |
-| Work     | 4 hours | 8:00 - 12:00         |
-| Break    | 1 hour  | 12:00 - 13:00        |
-| Work     | 4 hours | 14:00 - 18:00        |
-| Personal | 8 hours | 18                   |
-| Sleep    | 8 hours |                      |
+| Type       | Time    | Suggested Timeframes |
+| ---------- | ------- | -------------------- |
+| Personal 1 |         |                      |
+| Work 1     | 4 hours | 8:00 - 12:00         |
+| Break      | 1 hour  | 12:00 - 13:00        |
+| Work 2     | 4 hours | 14:00 - 18:00        |
+| Personal 2 | 8 hours | 18:00 -              |
+| Sleep      | 8 hours |                      |
