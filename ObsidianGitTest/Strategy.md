@@ -19,7 +19,6 @@ Caps
 	12 for work
 	8 for sleep
 	4 for personal
-	
 
 My personal schedule
 
