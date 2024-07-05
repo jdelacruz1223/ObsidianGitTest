@@ -32,4 +32,5 @@ My personal schedule
 | Personal 2 | 5 hours | 20:00 - 01:00        |
 | Sleep      | 8 hours | 01:00- 9:00          |
 to do list:
-m
+meetings
+milestones
