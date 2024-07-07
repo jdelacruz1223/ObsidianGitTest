@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianGitTest/Mock Project.md",
+                "file": "ObsidianGitTest/GMTK Prep Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianGitTest/Mock Project.md",
+                "file": "ObsidianGitTest/GMTK Prep Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianGitTest/Mock Project.md",
+                "file": "ObsidianGitTest/GMTK Prep Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianGitTest/Mock Project.md"
+                "file": "ObsidianGitTest/GMTK Prep Log.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "85b0b6db84049f5e",
   "lastOpenFiles": [
-    "ObsidianGitTest/GMTK Prep Log.md",
     "ObsidianGitTest/Mock Project.md",
+    "ObsidianGitTest/GMTK Prep Log.md",
     "README.md",
     "ObsidianGitTest/Strategy.md",
     "ObsidianGitTest/Jam Prep.md",
