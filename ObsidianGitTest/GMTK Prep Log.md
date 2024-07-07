@@ -12,7 +12,9 @@ Confirmed members
 | Chubby_Hero | Chris   | Art                       | Technical Artist                   |
 We need:
 Project Wiki
-Project Guidelines 
+Project Guidelines
+Project Documentation
+Project Kanban
 
 Member notes:
 	Toonlank
