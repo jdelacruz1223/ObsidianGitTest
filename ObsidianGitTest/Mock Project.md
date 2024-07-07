@@ -12,4 +12,4 @@ Bottom line, communication is everything! Although we would all be occupying our
 Artists can talk to Designers to make the game's world and characters stylized and attractive.
 Designers can talk to Programmers to make the gameplay and functions enticing.
 Programmers can talk to Artists to make the art come to life.
-And everyone can talk to the producers to ensure all their needs are met.
+And everyone can talk to the Producers to ensure all their needs are met.
