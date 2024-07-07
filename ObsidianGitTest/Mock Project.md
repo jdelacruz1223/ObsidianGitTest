@@ -1,0 +1,1 @@
+Artists should have their own branch that only reflects a couple
