@@ -3,7 +3,7 @@ Confirmed members
 | Handle      | Name    | Discipline                | Role                        |
 | ----------- | ------- | ------------------------- | --------------------------- |
 | frooh       | Justin  | Production<br>Programming | Lead Producer<br>Programmer |
-| Luqey       | Luke    | Art                       | Lead Artist<br>Co-Producer  |
+| Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer  |
 | Shiva       | Dichill | Programming               | Lead Programmer             |
 | Toonlank    | Javier  | Programmer                | Programmer                  |
 | MilkyWay    | Jens    | Design                    | Level Designer              |
