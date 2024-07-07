@@ -1,1 +1,1 @@
-Artists should have their own branch that only reflects a couple
+Artists should have their own branch that only reflects a small number of folders pertaining to only art assets. Art files can and should be 
