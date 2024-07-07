@@ -10,6 +10,9 @@ Confirmed members
 | testlab12   | Adam    | Design                    | Gameplay Designer                  |
 | erso        | Erso    | Art                       | Concept Artist                     |
 | Chubby_Hero | Chris   | Art                       | Technical Artist                   |
+We need:
+Project Wiki
+Project Guidelines 
 
 Member notes:
 	Toonlank
