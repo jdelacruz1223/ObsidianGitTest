@@ -1,1 +1,1 @@
-Artists should have their own branch that only reflects a small number of folders pertaining to only art assets. Art files can and should be 
+Artists should have their own branch that only reflects a small number of folders pertaining to only art assets. Art files can and should be places in these folders and pushed so that the rest of the team has access to those files without the Artists having any 
