@@ -9,4 +9,5 @@ Programmers are responsible for connecting the assets and the logic of the gamep
 Producers are responsible for overseeing the project workflow and connecting roles to their respective needs at a given time. They act as a communicative beacon that other roles can reach out to in order to resolve requests and acquire needed tools or information. Interaction with the projects itself (Assets, Scenes, Code) is required on a overview approach to ensure progress and create plans to move forward based on that progress. They must work to create viable scheduling, keep track of the game's creative and technical functionality, and maintain healthy workflow.
 
 Bottom line, communication is everything! Although we would all be occupying our own lanes respective to our roles, none of these principals alone can create a finished product; we need to communicate with each other to make our creations real.
-Artists can talk to Designers to make the 
+Artists can talk to Designers to make the game's world and characters stylized and attractive.
+Designers can talk to Programmers to make the g
