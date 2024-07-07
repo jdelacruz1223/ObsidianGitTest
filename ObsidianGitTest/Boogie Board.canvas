@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-93,"y":1,"width":613,"height":539}
+		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-93,"y":1,"width":613,"height":539},
+		{"id":"cd731c83bfe91bc2","x":540,"y":1,"width":400,"height":400,"type":"file","file":"ObsidianGitTest/Strategy.md"}
 	],
 	"edges":[]
 }
