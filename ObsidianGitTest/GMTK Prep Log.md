@@ -10,13 +10,9 @@ Confirmed members
 | Luqey       | Luke    | Art                       | Lead Artist            |
 | erso        | Erso    | Art                       | Concept Artist         |
 | Chubby_Hero | Chris   | Art                       | Technical Artist       |
-Scheduling
-Toonlank - available weekdays after 12:00, preferrable 14:00
-- Concerns: slow pc
-MilkyWay
 
 Member notes:
 	Toonlank
 		Weekdays after 12:00, preferrable 14:00
 		Notes:
-			
+			Slow PC
