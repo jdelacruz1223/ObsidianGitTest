@@ -11,4 +11,5 @@ Producers are responsible for overseeing the project workflow and connecting rol
 Bottom line, communication is everything! Although we would all be occupying our own lanes respective to our roles, none of these principals alone can create a finished product; we need to communicate with each other to make our creations real.
 Artists can talk to Designers to make the game's world and characters stylized and attractive.
 Designers can talk to Programmers to make the gameplay and functions enticing.
-Programmers can talk to Artists to make their art
+Programmers can talk to Artists to make the art come to life.
+And 
