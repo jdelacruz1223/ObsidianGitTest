@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md",
+                "file": "ObsidianGitTest/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md",
+                "file": "ObsidianGitTest/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md",
+                "file": "ObsidianGitTest/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md"
+                "file": "ObsidianGitTest/Untitled.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "85b0b6db84049f5e",
   "lastOpenFiles": [
-    "ObsidianGitTest/GMTK Prep Log.md",
     "ObsidianGitTest/Strategy.md",
+    "ObsidianGitTest/Untitled.md",
+    "ObsidianGitTest/GMTK Prep Log.md",
     "ObsidianGitTest/Jam Prep.md",
     "ObsidianGitTest/Boogie Board.canvas",
     "README.md",
