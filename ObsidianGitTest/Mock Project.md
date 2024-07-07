@@ -1,3 +1,3 @@
 Artists should have their own branch that only reflects a small number of folders pertaining to only art assets. Art files can and should be places in these folders and pushed so that the rest of the team has access to those files without the Artists being able to modify any other components of the repo.
 
-Designers only have access to Unity Scene related tools. GameOb
+Designers only have access to Unity Scene related tools. GameObjects, Prefabs, Assets
