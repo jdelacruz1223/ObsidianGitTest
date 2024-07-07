@@ -6,4 +6,4 @@ Designers only have access to Unity Scene related tools. GameObjects, Prefabs, A
 
 Programmers are responsible for connecting the assets and the logic of the gameplay. They should only be responsible for scripts and any code/logic related components within the project. Access to other aspects of the project such as GameObjects, Prefabs, etc, is still allowed, but modification of anything outside of code and scripts should be communicated and only be modified in cooperation with the respective role involved. For example, modifying Scene components should be communicated and done with a Designer. Animation, as well, is to be modified in cooperation with an Artist. The creation of new features should first be requested and greenlit by the Lead Programmer and Lead Producer to ensure completion of features and prevent incomplete components.
 
-Producers 
+Producers are responsible for overseeing the project workflow and connecting roles to their respective needs
