@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md",
+                "file": "ObsidianGitTest/Project Team Roles and Guidelines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md",
+                "file": "ObsidianGitTest/Project Team Roles and Guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md",
+                "file": "ObsidianGitTest/Project Team Roles and Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md"
+                "file": "ObsidianGitTest/Project Team Roles and Guidelines.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85b0b6db84049f5e",
+  "active": "fd08f285fe9b848c",
   "lastOpenFiles": [
-    "ObsidianGitTest/Mock Project.md",
     "ObsidianGitTest/GMTK Prep Log.md",
+    "ObsidianGitTest/Project Team Roles and Guidelines.md",
     "README.md",
     "ObsidianGitTest/Strategy.md",
     "ObsidianGitTest/Jam Prep.md",
