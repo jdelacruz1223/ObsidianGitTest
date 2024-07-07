@@ -5,8 +5,8 @@ Confirmed members
 | frooh       | Justin  | Production<br>Programming | Producer<br>Programmer |
 | Shiva       | Dichill | Programming               | Lead Programmer        |
 | Toonlank    | Javier  | Programmer                | Programmer             |
-| MilkyWay    | Jens    | Design                    |                        |
-| testlab12   | Adam    | Design                    | Level Designer         |
+| MilkyWay    | Jens    | Design                    | Level Designer         |
+| testlab12   | Adam    | Design                    | Gameplay Designer      |
 | Luqey       | Luke    | Art                       | Lead Artist            |
 | erso        | Erso    | Art                       | Concept Artist         |
 | Chubby_Hero | Chris   | Art                       | Technical Artist       |
