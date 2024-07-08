@@ -22,5 +22,5 @@ Member notes:
 		Notes:
 			Slow PC
 	Chubby_Hero
-		Weekdays
-		19
+		Weekdays 
+		19th,20th,21st unavailable
