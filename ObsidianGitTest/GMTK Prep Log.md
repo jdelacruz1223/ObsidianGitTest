@@ -22,4 +22,5 @@ Member notes:
 		Notes:
 			Slow PC
 	Chubby_Hero
-		
+		Weekdays
+		19
