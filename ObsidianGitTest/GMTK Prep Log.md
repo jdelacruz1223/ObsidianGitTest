@@ -23,5 +23,5 @@ Member notes:
 			Slow PC
 	Chubby_Hero
 		Weekdays and Weekends after 10:00, before 23:00
-		19th,20th,21st unavailable
+		13th, 19th,20th,21st unavailable
 		13th unavailable until after
