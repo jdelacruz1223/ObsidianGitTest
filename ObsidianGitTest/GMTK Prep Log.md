@@ -22,5 +22,5 @@ Member notes:
 		Notes:
 			Slow PC
 	Chubby_Hero
-		Weekdays 
+		Weekdays and Weekends after 10:00, a
 		19th,20th,21st unavailable
