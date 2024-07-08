@@ -11,9 +11,9 @@ Confirmed members
 | erso        | Erso    | Art                       | Concept Artist                     |
 | Chubby_Hero | Chris   | Art                       | Technical Artist                   |
 We need:
-Project Wiki
-Project Guidelines
-Project Documentation
+Project Wiki (Notion)
+Project Guidelines (obsidian/discord)
+Project Documentation (obsidian/discord)
 Project Kanban
 
 Member notes:
