@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-93,"y":1,"width":613,"height":539},
 		{"id":"cd731c83bfe91bc2","type":"file","file":"ObsidianGitTest/Strategy.md","x":540,"y":1,"width":400,"height":400},
-		{"id":"3f401cc4d28ef8bb","x":-120,"y":-260,"width":250,"height":60,"type":"text","text":"Boogie Board"}
+		{"id":"3f401cc4d28ef8bb","x":-93,"y":-220,"width":580,"height":180,"type":"text","text":"# Boogie Board"}
 	],
 	"edges":[]
 }
