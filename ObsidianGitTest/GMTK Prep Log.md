@@ -21,3 +21,5 @@ Member notes:
 		Weekdays after 12:00, preferrable 14:00
 		Notes:
 			Slow PC
+	Chubby_Hero
+		
