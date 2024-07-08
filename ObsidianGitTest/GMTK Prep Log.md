@@ -14,7 +14,7 @@ We need:
 Project Wiki (Notion)
 Project Guidelines (obsidian/discord)
 Project Documentation (obsidian/discord)
-Project Kanban
+Project Kanban (Trello)
 
 Member notes:
 	Toonlank
