@@ -3,7 +3,7 @@
 		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-93,"y":1,"width":613,"height":899},
 		{"id":"3f401cc4d28ef8bb","type":"text","text":"# Boogie Board\nUnity Setup - Chris, Adam /\nReveal Plans - Luke /\nTalk to - Dichill X\n\n\nLuke - Github, Unity, VSCode\nDichill - Github, Unity, VSCode\nJavier - not yet\nJens - Github, Unity, VSCode (?) double check\nAdam - Github, Unity, VSCode\nErso - unresponsive\nChris - Github, Unity, VSCode\n\nPhase Order:\n1. Brainstorm\n\t1. Collect ideas\n\t2. Little to no constraints, creative freedom\n2. Curate\n\t1. Iterate through ideas\n\t2. Rationalize and cut/keep ideas\n3. Roadmap\n\t1. Create a beginning-to-end progress chart\n4. Assign\n\t1. Assign tasks to appropriate roles\n5. Execute\n\t1. Begin development loop\n6. Complete\n\nDevelopment Loop\n1. Meeting\n\t1. Assess current progress\n\t2. Establish tasks for the day\n\t3. Address team input\n2. Work\n\t1. Ask questions\n\t2. Sparingly check on progress\n\t3. Address team input\n3. Repeat\n4. End of Day\n\t1. Log completed tasks\n\t2. Note incomplete tasks for tomorrow","x":-500,"y":1,"width":393,"height":1659},
 		{"id":"cd731c83bfe91bc2","type":"file","file":"ObsidianGitTest/Strategy.md","x":1860,"y":700,"width":520,"height":799},
-		{"id":"21e1f05b87f4fb0f","x":628,"y":568,"width":250,"height":192,"type":"text","text":"new vs expand\n\n\nchris addon level\nluke \nadam minigame\n\n"}
+		{"id":"21e1f05b87f4fb0f","x":628,"y":568,"width":250,"height":192,"type":"text","text":"new vs expand\n\n\nchris addon level\nluke \nadam in town- minigame\njavier - \n\n"}
 	],
 	"edges":[]
 }
