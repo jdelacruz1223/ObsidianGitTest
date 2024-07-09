@@ -27,4 +27,5 @@ Member notes:
 	Adam
 		Weekdays and Weekends after 10:00, before 23:00
 	Luke
-		
+		Most days, varies on schedule
+	U
