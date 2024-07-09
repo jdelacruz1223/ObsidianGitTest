@@ -28,4 +28,6 @@ Member notes:
 		Weekdays and Weekends after 10:00, before 23:00
 	Luke
 		Most days, varies on schedule
-	U
+	Justin
+		not monday/friday after 4
+		
