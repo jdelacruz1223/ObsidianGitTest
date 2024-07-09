@@ -16,7 +16,7 @@
                 "file": "ObsidianGitTest/Boogie Board.canvas",
                 "viewState": {
                   "x": 301.5511220247596,
-                  "y": 721.1951235515651,
+                  "y": 427.4864756099048,
                   "zoom": 0.07788241324849526
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md",
+                "file": "ObsidianGitTest/Boogie Board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md",
+                "file": "ObsidianGitTest/Boogie Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianGitTest/Strategy.md"
+                "file": "ObsidianGitTest/Boogie Board.canvas"
               }
             }
           }
