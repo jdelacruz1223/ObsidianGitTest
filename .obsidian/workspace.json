@@ -15,8 +15,8 @@
               "state": {
                 "file": "ObsidianGitTest/Boogie Board.canvas",
                 "viewState": {
-                  "x": 220,
-                  "y": 521.016959105283,
+                  "x": 535.4592498483009,
+                  "y": 622.5553965761101,
                   "zoom": -0.2424163747552992
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md",
+                "file": "ObsidianGitTest/Boogie Board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md",
+                "file": "ObsidianGitTest/Boogie Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianGitTest/GMTK Prep Log.md"
+                "file": "ObsidianGitTest/Boogie Board.canvas"
               }
             }
           }
