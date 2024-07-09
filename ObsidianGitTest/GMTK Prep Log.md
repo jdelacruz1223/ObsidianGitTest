@@ -24,3 +24,5 @@ Member notes:
 	Chubby_Hero
 		Weekdays and Weekends after 10:00, before 23:00
 		8/13, 8/19th, 8/20th, 8/21st unavailable
+	Adam
+		free whenever
