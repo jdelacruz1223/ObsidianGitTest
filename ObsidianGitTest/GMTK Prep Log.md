@@ -30,4 +30,5 @@ Member notes:
 		Most days, varies on schedule
 	Justin
 		not monday/friday after 4
-		
+	Dichill
+		eta
