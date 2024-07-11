@@ -7,7 +7,7 @@
 		{"id":"fa4e3a853e3e076f","type":"text","text":"future levels:\n- Coastal Cali City\nHigh-rise city - downtown-ish\nPike - shopping town\nocean side\naquarium\nBUBBA GUMP\n\n- Nature Reserve\nYosemite\nredwoods\nnature stop/park\n","x":145,"y":1260,"width":415,"height":480},
 		{"id":"7ef5a5eb3ab2b106","type":"text","text":"by the end of july, able to do 4 day sprint\nbeginning of august - test jam 4, 2 + 2 sleep mock GMTK","x":180,"y":1000,"width":250,"height":211},
 		{"id":"b57c57e076341020","x":-449,"y":1765,"width":250,"height":195,"type":"text","text":"7/10 : workshop\nerso - catchup everything\njens - catchup yesterday\n- setup unity\n"},
-		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-80,"y":1,"width":613,"height":899}
+		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-60,"y":1,"width":613,"height":899}
 	],
 	"edges":[]
 }
