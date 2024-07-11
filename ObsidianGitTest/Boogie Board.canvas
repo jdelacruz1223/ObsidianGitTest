@@ -1,12 +1,12 @@
 {
 	"nodes":[
+		{"id":"9baef2d82ac82d07","x":-64,"y":1849,"width":250,"height":60,"type":"text","text":""},
 		{"id":"3f401cc4d28ef8bb","type":"text","text":"# Boogie Board\nUnity Setup - Chris, Adam /\nReveal Plans - Luke /\nTalk to - Dichill X\n\n\nLuke - Github, Unity, VSCode\nDichill - Github, Unity, VSCode\nJavier - Github, Unity, VSCode\nJens - Github, Unity, VSCode (?) double check\nAdam - Github, Unity, VSCode\nErso - unresponsive\nChris - Github, Unity, VSCode\n\nPhase Order:\n1. Brainstorm\n\t1. Collect ideas\n\t2. Little to no constraints, creative freedom\n2. Curate\n\t1. Iterate through ideas\n\t2. Rationalize and cut/keep ideas\n3. Roadmap\n\t1. Create a beginning-to-end progress chart\n4. Assign\n\t1. Assign tasks to appropriate roles\n5. Execute\n\t1. Begin development loop\n6. Complete\n\nDevelopment Loop\n1. Meeting\n\t1. Assess current progress\n\t2. Establish tasks for the day\n\t3. Address team input\n2. Work\n\t1. Ask questions\n\t2. Sparingly check on progress\n\t3. Address team input\n3. Repeat\n4. End of Day\n\t1. Log completed tasks\n\t2. Note incomplete tasks for tomorrow","x":-500,"y":1,"width":393,"height":1659},
 		{"id":"cd731c83bfe91bc2","type":"file","file":"ObsidianGitTest/Strategy.md","x":1860,"y":700,"width":520,"height":799},
 		{"id":"9aaf18c03ac79813","type":"text","text":"\"town redesign\"\n\tadd game(s)\n\tnew art\n\tnew layout","x":580,"y":600,"width":250,"height":135},
 		{"id":"a1c13a9ca85191dd","type":"text","text":"Theme: \nold western/knotts\nmining/ghost town\nfruit festival\namusement park + bubba gump\n\nLayout: \ncheck discord\n\nPeople: \ngame operator - 1 line\nfruit seller\nshopkeeper\nbubba gump\n\nMini-Games:\nbottle shooting\nTight Rope balancing\nJam making\n\n","x":580,"y":771,"width":500,"height":749},
 		{"id":"fa4e3a853e3e076f","type":"text","text":"future levels:\n- Coastal Cali City\nHigh-rise city - downtown-ish\nPike - shopping town\nocean side\naquarium\nBUBBA GUMP\n\n- Nature Reserve\nYosemite\nredwoods\nnature stop/park\n","x":145,"y":1260,"width":415,"height":480},
 		{"id":"7ef5a5eb3ab2b106","type":"text","text":"by the end of july, able to do 4 day sprint\nbeginning of august - test jam 4, 2 + 2 sleep mock GMTK","x":180,"y":1000,"width":250,"height":211},
-		{"id":"b57c57e076341020","x":-449,"y":1765,"width":250,"height":195,"type":"text","text":"7/10 : workshop\nerso - catchup everything\njens - catchup yesterday\n- setup unity\n"},
 		{"id":"0d5c94c6144ead6d","type":"file","file":"ObsidianGitTest/GMTK Prep Log.md","x":-60,"y":1,"width":613,"height":899}
 	],
 	"edges":[]
