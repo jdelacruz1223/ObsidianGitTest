@@ -1,15 +1,15 @@
 Confirmed members
 
-| Handle      | Name    | Discipline                | Role                               |
-| ----------- | ------- | ------------------------- | ---------------------------------- |
-| frooh       | Justin  | Production<br>Programming | Lead Producer<br>Junior Programmer |
-| Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer         |
-| Shiva       | Dichill | Programming               | Lead Programmer                    |
-| Toonlank    | Javier  | Programmer                | Gameplay Programmer                |
-| MilkyWay    | Jens    | Design                    | Level Designer                     |
-| testlab12   | Adam    | Design                    | Gameplay Designer                  |
-| erso        | Erso    | Art                       | Concept Artist                     |
-| Chubby_Hero | Chris   | Art                       | Technical Artist                   |
+| Handle      | Name    | Discipline                | Role                               | Contacted |
+| ----------- | ------- | ------------------------- | ---------------------------------- | --------- |
+| frooh       | Justin  | Production<br>Programming | Lead Producer<br>Junior Programmer | yes       |
+| Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer         |           |
+| Shiva       | Dichill | Programming               | Lead Programmer                    |           |
+| Toonlank    | Javier  | Programmer                | Gameplay Programmer                |           |
+| MilkyWay    | Jens    | Design                    | Level Designer                     |           |
+| testlab12   | Adam    | Design                    | Gameplay Designer                  |           |
+| erso        | Erso    | Art                       | Concept Artist                     |           |
+| Chubby_Hero | Chris   | Art                       | Technical Artist                   |           |
 We need:
 Project Wiki (Notion)
 Project Guidelines (obsidian/discord)
