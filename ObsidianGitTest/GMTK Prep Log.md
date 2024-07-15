@@ -3,7 +3,7 @@ Confirmed members
 | Handle      | Name    | Discipline                | Role                               | when2meet |
 | ----------- | ------- | ------------------------- | ---------------------------------- | --------- |
 | frooh       | Justin  | Production<br>Programming | Lead Producer<br>Junior Programmer | yes       |
-| Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer         |           |
+| Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer         | yes       |
 | Shiva       | Dichill | Programming               | Lead Programmer                    |           |
 | Toonlank    | Javier  | Programmer                | Gameplay Programmer                | yes       |
 | MilkyWay    | Jens    | Design                    | Level Designer                     | yes       |
