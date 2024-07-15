@@ -6,8 +6,8 @@ Confirmed members
 | Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer         |           |
 | Shiva       | Dichill | Programming               | Lead Programmer                    |           |
 | Toonlank    | Javier  | Programmer                | Gameplay Programmer                |           |
-| MilkyWay    | Jens    | Design                    | Level Designer                     |           |
-| testlab12   | Adam    | Design                    | Gameplay Designer                  |           |
+| MilkyWay    | Jens    | Design                    | Level Designer                     | yes       |
+| testlab12   | Adam    | Design                    | Gameplay Designer                  | yes       |
 | erso        | Erso    | Art                       | Concept Artist                     | yes       |
 | Chubby_Hero | Chris   | Art                       | Technical Artist                   | yes       |
 We need:
