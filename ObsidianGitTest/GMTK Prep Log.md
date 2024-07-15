@@ -1,6 +1,6 @@
 Confirmed members
 
-| Handle      | Name    | Discipline                | Role                               | Contacted |
+| Handle      | Name    | Discipline                | Role                               | when2meet |
 | ----------- | ------- | ------------------------- | ---------------------------------- | --------- |
 | frooh       | Justin  | Production<br>Programming | Lead Producer<br>Junior Programmer | yes       |
 | Luqey       | Luke    | Art<br>Production         | Lead Artist<br>Co-Producer         |           |
@@ -8,8 +8,8 @@ Confirmed members
 | Toonlank    | Javier  | Programmer                | Gameplay Programmer                |           |
 | MilkyWay    | Jens    | Design                    | Level Designer                     |           |
 | testlab12   | Adam    | Design                    | Gameplay Designer                  |           |
-| erso        | Erso    | Art                       | Concept Artist                     |           |
-| Chubby_Hero | Chris   | Art                       | Technical Artist                   |           |
+| erso        | Erso    | Art                       | Concept Artist                     | yes       |
+| Chubby_Hero | Chris   | Art                       | Technical Artist                   | yes       |
 We need:
 Project Wiki (Notion)
 Project Guidelines (obsidian/discord)
